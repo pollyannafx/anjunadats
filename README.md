@@ -1,5 +1,5 @@
 # anjunadats
-A project started 15 April 2024 in which I attempt to track trends in the releases of one (1) very British trance music record label. 
+A project started 15 April 2024 in which I attempt to track trends in the releases of one (1) British trance music record label. 
 Turns out that looking at one music label...really says a lot about said music's development? 
 
 _heck yeah._ taking a look at anjunabeats (the label in question) can tell me a _lot_ about where trance music has gone and where it's going. 
