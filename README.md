@@ -14,3 +14,5 @@ i'm sorry that i haven't been posting any work in real time about i just remembe
 
 [09/28/2024] and now that i'm using github more for school, maybe i'll remember it exists more! 
 i love markdown. 
+
+[03/21/2025] waiting on the permission of anjunabeats HQ to scrape some of their data. i was collecting data manually when i started this project in 2024, but now i have more expertise in using larger datasets. 
